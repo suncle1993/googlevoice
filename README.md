@@ -116,6 +116,8 @@
 
 ### 防收回
 
+> 防收回教程: https://youtu.be/Eu6jwxOEeYM
+
 * 常使用，例如与朋友互相打电话 / 发短信；
 * 拨打美国客服电话，例如：Apple，Microsoft。
 
