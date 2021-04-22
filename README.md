@@ -1,7 +1,7 @@
 # 注册 Google Voice 方法 成功率较高
 
 [![](https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-%231BA1F3)](https://twitter.com/yifangme) [![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/googlequn)  
----
+
 ### 目录
 
 1. [基本功能](#基本功能)
@@ -38,6 +38,11 @@
 
 ![uHd3gktiC98DXfy](https://i.loli.net/2021/03/02/uHd3gktiC98DXfy.png)
 
+如果需要原生IP，不要在`https://free-ss.site/`这个网站上找美国的ip，虽然可以科学上网，但是IP大概率不是美国原生，因此不要去尝试，避免浪费接码平台的充值费用。
+
+经过测验下来，发现桃花源机场的美国原生IP节点是可以注册成功的，地址：`https://ssthy.com`
+
+![](assets/thy.com.png)
 
 ### 挑选 Google Voice 号码
 
@@ -61,6 +66,8 @@
 >
 
 ![](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhemij4vfj31vy148448.jpg)
+
+>  **大陆地区的visa信用卡是不能支付的，及时是支持美元的双币卡。可以选择数字货币支付，比特币和以太坊的手续费太高，官方推荐使用莱特币LTC，手续费只需要几毛钱，和比特币相比便宜了20倍以上**
 
 充值后点击左侧 **CATALOG**，找到 Google Voice 点击右侧**购物车**。
 
@@ -94,6 +101,8 @@
 
 ---
 
+>  如果接码号码经过检测是可以注册的，但是还是未显示号码（也就是注册失败），那最可能的原因就是IP不是美国原生IP，建议更换机场重新充值注册
+
 ### Voice 客户端
 
 * iOS：非国区 App Store 安装。
@@ -111,6 +120,8 @@
 * 拨打美国客服电话，例如：Apple，Microsoft。
 
 > 如果在 6 个月内没有拨打或接听电话，收发短信，[Google](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222) 会收回号码。不会收回永久号码。
+
+小故事：我通过新注册的Google Voice去登录Telegram之后发现是一个有人的账号，号上面没有什么价值，全是广告刷单的频道，因此还不还回去也没什么区别了，因此直接写了个批量退群的代码清空了这个telegram账号。这个也告诉大家，一定要注意号码的防回收。另外telegram最好开启两步验证。
 
 ---
 
@@ -145,7 +156,5 @@
 
 显示 `y` 则可以注册 Google Voice。
 
-![FrnlvOcho8sVRbQ](https://i.loli.net/2021/02/26/FrnlvOcho8sVRbQ.png)
-
-🔝[返回顶部](#注册-google-voice-方法-成功率较高)
+![FrnlvOcho8sVRbQ](https://i.loli.net/2021/02/26/FrnlvOcho8sVRbQ.png)🔝[返回顶部](#注册-google-voice-方法-成功率较高)
 
